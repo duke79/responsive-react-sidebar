@@ -20,7 +20,7 @@
         "babel-preset-stage-0": "^6.24.1",
         "path": "^0.12.7",
         "prop-types": "^15.6.0",
-        "react": "^16.0.0",
+        "react": "^16.4.2",
         "react-dom": "^16.0.0",
         "webpack": "^4.5.0",
         "webpack-cli": "^2.0.14"
@@ -30,5 +30,8 @@
         "type": "git",
         "url": "https://github.com/duke79/responsive-react-sidebar.git"
     },
-    "dependencies": {}
+    "dependencies": {
+        "jquery": "^3.3.1",
+        "react-router-dom": "^4.3.1"
+    }
 }

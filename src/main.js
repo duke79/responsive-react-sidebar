@@ -2,8 +2,7 @@ import { NavLink } from "react-router-dom";
 import React, { Component } from 'react';
 import $ from 'jquery'
 import styles from './main.css'
-import fa_styles from '../../lib/font-awesome/css/font-awesome.min.css';
-import '../../lib/styleUnmangled/Router.css'
+import fa_styles from './lib/font-awesome/css/font-awesome.min.css';
 
 class ResponsiveSidebar extends Component {
     state = {
