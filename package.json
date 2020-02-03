@@ -22,7 +22,7 @@
         "prop-types": "^15.6.0",
         "react": "^16.4.2",
         "react-dom": "^16.0.0",
-        "webpack": "^4.5.0",
+        "webpack": "^4.41.5",
         "webpack-cli": "^2.0.14"
     },
     "homepage": "https://github.com/duke79/responsive-react-sidebar",
@@ -31,7 +31,7 @@
         "url": "https://github.com/duke79/responsive-react-sidebar.git"
     },
     "dependencies": {
-        "jquery": "^3.3.1",
+        "jquery": "^3.4.1",
         "react-router-dom": "^4.3.1"
     }
 }
